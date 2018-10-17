@@ -1,0 +1,11 @@
+GitHub Commands:
+
+change directory:   cd
+change directory back one:  cd..
+change directory to somefolder:   cd somefolder
+copy a repository off GitHub:   git clone https://github.com/somefile
+new folder:  mkdir NameOfFolder
+delete folder: rmdir NameOfFolder
+status of items in git folder:  git status
+[if red, not added to repository, if green, then added to repository]
+add an item from my git folder to the online repository:  git add theItem
