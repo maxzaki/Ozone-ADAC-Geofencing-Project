@@ -9,3 +9,4 @@ delete folder: rmdir NameOfFolder
 status of items in git folder:  git status
 [if red, not added to repository, if green, then added to repository]
 add an item from my git folder to the online repository:  git add theItem
+MORE STUFF ADDED
