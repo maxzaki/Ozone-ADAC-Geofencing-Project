@@ -12,4 +12,24 @@ add an item from my git folder to the online repository:  git add theItem
 Save the added item to the repository and make comment:  git commit -m "myComment"
 Export the saved item on to github:  git push
 pull files from github to own computer:  git pull
+View all the possible commands:  git
 add all files that have changed:  git add -A
+
+SEQUENCE:
+
+cd..
+cd somefolder
+
+git clone https://github.com/somefile
+
+ OR (if already have that file):
+
+git pull
+
+[make changes to somefile]
+
+git status
+git add somefile.txt
+git commit -m "myComment"
+git push
+
